@@ -1,6 +1,7 @@
 # Runbook
 
 `javac *.java`
+
 `cat <grid.txt> | java GridWorld`
 
 # Time Spent
